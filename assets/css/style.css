@@ -689,6 +689,10 @@ html {
   color: rgb(18 18 47 / var(--tw-text-opacity));
 }
 
+#hero{
+  background-color:blue;
+}
+
 .fixed {
   position: fixed;
 }

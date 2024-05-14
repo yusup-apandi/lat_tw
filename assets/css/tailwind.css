@@ -37,5 +37,7 @@ html {
     .card-body{
         @apply text-lg font-medium text-primary-900;
     }
-   
+   #hero{
+    background-color:blue;
+   }
 }
